@@ -15,4 +15,5 @@
 ### Currently used tools & OSes
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,blender,vscode,bash)](https://skillicons.dev)
 
+### My Telegram:
 <img src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" />
