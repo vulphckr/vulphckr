@@ -1,6 +1,6 @@
 ## `vulphckr@github.com>`
 
-- Student @ UniBo since 2024/2025**
+- Student @ UniBo since 2024/2025
 - 21 Years Old
 - Improving low-level languages (C, ASM...)
 
