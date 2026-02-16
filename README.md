@@ -16,4 +16,4 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,blender,vscode,bash)](https://skillicons.dev)
 
 ### My Telegram:
-<img href="https://t.me/pulvix" src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" />
+<a href="https://t.me/pulvix" target="_blank"><img src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" /></a>
