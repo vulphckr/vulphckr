@@ -10,10 +10,10 @@
 - Currently trying to improving low-level languages (C, ASM...).
 
 ### Currently known languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,py,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,arduino,html,css,markdown,md)](https://skillicons.dev)
 
 ### Currently used tools & OSes
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,blender,vscode,bash)](https://skillicons.dev)
 
 ### My Telegram:
-<img src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" />
+<img href="https://t.me/pulvix" src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" />
