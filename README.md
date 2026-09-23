@@ -10,7 +10,7 @@
 - Currently trying to improve low-level languages (*currently learning C++*).
 
 ### Currently known languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,sql,arduino,html,css,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,arduino,html,css,markdown)](https://skillicons.dev)
 
 ### Currently used tools & OSes
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode,bash,obsidian)](https://skillicons.dev)
