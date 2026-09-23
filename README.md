@@ -15,4 +15,4 @@
 ### Currently used tools & OSes
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode,bash)](https://skillicons.dev)
 
-### My Telegram: [@pulvix](t.me/pulvix)
+### My Telegram: [@pulvix](https://t.me/pulvix)
