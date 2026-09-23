@@ -7,13 +7,12 @@
 ### About
 - Student @ UniBo since 2024/2025.
 - 21 Years Old
-- Currently trying to improving low-level languages (C, ASM...).
+- Currently trying to improve low-level languages (*currently learning C++*).
 
 ### Currently known languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,arduino,html,css,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,arduino,html,css,markdown)](https://skillicons.dev)
 
 ### Currently used tools & OSes
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,blender,vscode,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode,bash)](https://skillicons.dev)
 
-### My Telegram:
-<a href="https://t.me/pulvix" target="_blank"><img src="https://telegram-card.vercel.app/?username=pulvix&theme=dark&fontFamily=monospace" alt="@pulvix" style="width: 300px; max-width: 100%; height: auto;" /></a>
+### My Telegram: [@pulvix](t.me/pulvix)
